@@ -16,4 +16,4 @@ CLI Subcommands
 
 | Command | Description |
 | -------- | ------- |
-| dart compile &ltsubcommand&gt; [arguments] | compiles |
+| dart compile &lt;subcommand&gt; [arguments] | compiles |
